@@ -7,11 +7,7 @@
 Throw your dice and spawn your army and this army will fight with your opponent to capture his territory. This is a fun game developed in Unity 3d. I have also added some spawn multipliers at specified locations in each level, If your army passes those spawn areas then it will get multiplied with the multiplier value, this game is amazing to play.
 
 # ScreenShots
-![Alt text](/screenshot/screen1/to/img.jpg?raw=true "Screenshot")
-![Alt text](/screenshot/screen2/to/img.jpg?raw=true "Screenshot")
-![Alt text](/screenshot/screen3/to/img.jpg?raw=true "Screenshot")
-![Alt text](/screenshot/screen4/to/img.jpg?raw=true "Screenshot")
-![Alt text](/screenshot/screen5/to/img.jpg?raw=true "Screenshot")
+![dice-war.jpg](https://i.postimg.cc/6Txqq711/dice-war.jpg)
 
 # Features
 - This is a simple Dice war game.
@@ -19,6 +15,12 @@ Throw your dice and spawn your army and this army will fight with your opponent 
 - This army defends your area and fights with your opponent to capture his area, you will finish the level when you defeated your opponent.
 - I have added some army multipliers in the game, when your army passes these areas, it will get multiplied and you can attack your opponent with large numbers.
 - You can choose your soldiers from archers, Shield Warrior, or melee warriors.
+
+
+
+##
+##
+
 
 
 MIT License
